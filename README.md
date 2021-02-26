@@ -4,9 +4,9 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#telas">Telas</a> •
  <a href="#tecnologias">Tecnologias</a> •  
- <a href="#executar">Executar</a> •  
+ <a href="#telas">Telas</a> •
+ <a href="#iniciar">Iniciar</a> •  
  <a href="#autor">Autor</a>
 </p>
 
