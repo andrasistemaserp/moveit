@@ -50,7 +50,6 @@ $ yarn dev || npm run dev
 Danny S. Andrade. Entre em contato!
 <br />
 <br />
-<br />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/andrasistemaserp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danny-andrade-11180616b/)](https://www.linkedin.com/company/andra-sistemas)
