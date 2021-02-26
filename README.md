@@ -45,7 +45,7 @@ $ yarn dev || npm run dev
 
 # Autor
 
-<img width="10%" height="10%" style="border-radius: 88px" src="https://andraerpwebpub.s3.amazonaws.com/danny-profile.jpg" alt="Danny Andrade" />
+<img width="10%" height="10%" border-radius="88px" src="https://andraerpwebpub.s3.amazonaws.com/danny-profile.jpg" alt="Danny Andrade" />
 <br />
 Danny S. Andrade. Entre em contato!
 <br />
