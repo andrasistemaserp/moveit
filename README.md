@@ -46,8 +46,10 @@ $ yarn dev || npm run dev
 # Autor
 
 <img width="10%" height="10%" style="border-radius: 5.5rem" src="https://andraerpwebpub.s3.amazonaws.com/danny-profile.jpg" alt="Danny Andrade" />
- <br />
+<br />
 Danny S. Andrade. Entre em contato!
+<br />
+<br />
 <br />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/andrasistemaserp)
