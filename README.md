@@ -7,17 +7,22 @@
 <p align="center">
  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#iniciar">Iniciar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#licenca">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#autor">Autor</a>
 </p>
+
+<a id="sobre"></a><br>
 
 ## :books: Sobre
 
 Projeto desenvolvido na Next Level Week quarta edição (NLW#4) na trilha de React.js pela <a href="https://rocketseat.com.br">Rocketseat</a>
 
 Utilizando a técnica de Pomodoro, o moveit é uma plataforma para organizar períodos de foco em uma tarefa específica. Cada período de tempo completado o usuário receberá um desafio que se consisti em praticar algum exercício físico. Completando a tarefa ele irá ganhar uma quantidade de experiência para avançar para os próximos níveis.
+
+<a id="tecnologias"></a><br>
 
 ## ⚒️ Tecnologias
 
@@ -27,6 +32,8 @@ Utilizando a técnica de Pomodoro, o moveit é uma plataforma para organizar per
 - HTML
 - CSS Module
 - Cookie
+
+<a id="iniciar"></a><br>
 
 ## 🚀 Iniciar
 
@@ -44,6 +51,8 @@ $ yarn install || npm install
 $ yarn dev || npm run dev
 ```
 
+<a id="telas"></a><br>
+
 ## 💻 Telas
 
 <img src="/public/prints/home.png" width="700px;">
@@ -54,11 +63,13 @@ $ yarn dev || npm run dev
 
 ---
 
-<a id="licença"></a><br>
+<a id="licenca"></a><br>
 
 ## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE) para maiores detalhes.
+
+<a id="contribuir"></a><br>
 
 ## 🎯 Como contribuir
 
@@ -67,9 +78,7 @@ Este projeto está sob a licença do MIT. Veja o arquivo [LICENSE](LICENSE) para
 - Comite suas mudanças: `git commit -m 'recurso: Meus novos recursos'`
 - Push seu branch: `git push origin meu-recurso`
 
-## :confetti_ball: Este projeto está no ar!
-
-Para ver o projeto funcional acesse <a href="https://github.com/andrasistemaserp/moveit">aqui</a>
+<a id="autor"></a><br>
 
 ## 🧔 Autor
 
@@ -82,3 +91,8 @@ Danny S. Andrade. Entre em contato!
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/andrasistemaserp)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danny-andrade-11180616b/)](https://www.linkedin.com/company/andra-sistemas)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5519991170194&text=Olá-Danny!)](https://api.whatsapp.com/send?phone=+5519991170194&text=Olá-Danny!)
+
+## :confetti_ball: Este projeto está no ar!
+
+Para ver o projeto funcional acesse <a href="https://github.com/andrasistemaserp/moveit">aqui</a>
+
